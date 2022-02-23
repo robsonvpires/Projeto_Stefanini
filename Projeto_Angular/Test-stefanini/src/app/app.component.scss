@@ -1,0 +1,33 @@
+td {
+    cursor: pointer;
+}
+
+.hoverTr tr:hover{
+    background-color: rgb(227, 241, 236);
+}
+
+table{
+    background-color: white;
+}
+
+.content,.content-header{
+    background-color: whitesmoke;
+}
+
+.align-items{
+    display: flex;
+    justify-content: center;
+}
+
+.align-items-right{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.selected{
+    background-color: #79cccc!important;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
